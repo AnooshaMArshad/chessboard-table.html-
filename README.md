@@ -1,4 +1,4 @@
-<table border="4" width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+ <table border="4" width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
         <tr>
             <th colspan="8" style="background-color: black; color: blanchedalmond; text-align: center;"><i>Chess Board</i></th>
         </tr>
@@ -48,7 +48,7 @@
             <td bgcolor="black" style="width: 50px; height: 50px;"></td>
             
         </tr>
-        <tr>
+         <tr>
             <td bgcolor="black" style="width: 50px; height: 50px;"></td>
             <td bgcolor="white" style="width: 50px; height: 50px;"></td>
             <td bgcolor="black" style="width: 50px; height: 50px;"></td>
